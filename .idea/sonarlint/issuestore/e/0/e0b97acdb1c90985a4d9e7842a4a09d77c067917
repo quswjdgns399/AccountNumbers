@@ -1,0 +1,14 @@
+
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïëóô8¡‰°¢¦1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í÷–‡8¢‰°¢¦1
+ˆ
+java:S4165"kRemove this useless assignment; "accountNumber" already holds the assigned value along all execution paths.(ùæùÇ8¤‰°¢¦1
+Q
+java:S1172
+"4Remove this unused method parameter "AccountNumber".(ïëóô8¥‰°¢¦1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(œ¥ùß8¨‰°¢¦1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(õŒðîýÿÿÿÿ8¨‰°¢¦1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.( §ðçýÿÿÿÿ8¨‰°¢¦1
+L
+java:S1656"/Remove or correct this useless self-assignment.(ùæùÇ8¨‰°¢¦1
